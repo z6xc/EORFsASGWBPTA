@@ -13,8 +13,8 @@ This repository contains the complete analytic expressions for the **anisotropic
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/z6xc/EORFsASGWBPTA/tree/main
-cd your-repo-name
+git clone https://github.com/z6xc/EORFsASGWBPTA
+cd EORFsASGWBPTA
 ```
 ### 2. Requirements
 
